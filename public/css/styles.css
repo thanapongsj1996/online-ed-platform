@@ -1,0 +1,8 @@
+.text-blue {
+    color: blue;
+}
+.jumbotron {
+    border-radius: 0px;
+    color: whitesmoke;
+    background-image: linear-gradient(to right, #007bff, #000000);
+}
